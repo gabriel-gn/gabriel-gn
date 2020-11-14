@@ -1,6 +1,6 @@
 
 
-<h1>Hey there! nice to see you! <img src="https://emojis.slackmojis.com/emojis/images/1572027885/6950/blob_wave.png?1572027885" width="30"/></h1>
+<h1>Hey there! Nice to see you! <img src="https://emojis.slackmojis.com/emojis/images/1572027885/6950/blob_wave.png?1572027885" width="30"/></h1>
 
 <p>Hi, I'm Gabriel, another curious developer who is always trying to make better code and better applications. I hope my journey on github always bring me new ideas to keep in touch with the latest trends in technology.</p>
 <h3>Where to find me</h3>
